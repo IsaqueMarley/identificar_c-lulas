@@ -1,4 +1,4 @@
-# identificar_células numa imagem
+# Identificar Células numa Imagem
 
 O código apresentado é uma implementação em Python para contar o número de células em imagens de microscopia de sangue. Ele utiliza técnicas de processamento de imagem, como segmentação de cor e transformada de Hough para encontrar círculos que representam as células na imagem.
 
